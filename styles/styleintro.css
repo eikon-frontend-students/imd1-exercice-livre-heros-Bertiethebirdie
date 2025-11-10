@@ -1,19 +1,40 @@
 body {
   background-image: url(../images/Dungeon1.webp);
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .card {
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
-  color: black;
   padding: 50px;
   background-color: rgba(240, 248, 255, 0.532);
   font-size: 30px;
-  margin: 40px;
+  margin-right: 40px;
+  margin-left: 40px;
   text-align: center;
   border-radius: 15px;
 }
-img {
-  max-width: 200px;
+a {
+  font-size: 60px;
 }
 .finn {
-  display: inline;
+  img {
+    max-width: 152px;
+  }
+}
+
+.jake img {
+  max-width: 152px;
+}
+a {
+  padding: 50px;
+  background-color: rgba(240, 248, 255, 0.532);
+  border-radius: 15px;
+  margin-left: auto;
+  margin-right: auto;
+  color: hsl(300, 100%, 100%);
+}
+.start-container {
+  margin-top: 40px;
+  display: flex;
+  gap: 50px;
+  align-items: center;
 }
