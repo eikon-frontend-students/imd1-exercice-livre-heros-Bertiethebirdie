@@ -1,7 +1,7 @@
 body {
   background-image: url(../images/156597-Adventure_Time.jpg);
   color: white;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-family: Verdana, Tahoma, sans-serif;
 }
 .card {
   padding: 50px;
@@ -14,13 +14,17 @@ body {
 }
 a {
   padding: 50px;
-  background-color: rgba(240, 248, 255, 0.532);
+  background-color: rgba(102, 190, 70, 0.532);
   border-radius: 15px;
   margin-left: auto;
   margin-right: auto;
-  color: hsl(114, 73%, 13%);
+  color: hsl(0, 0%, 100%);
   font-size: 40px;
   text-align: center;
+}
+a:hover {
+  background-color: rgb(24, 133, 46);
+  font-size: 80px;
 }
 .start-container {
   margin-top: 40px;
