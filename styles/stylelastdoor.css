@@ -5,7 +5,7 @@ body {
 }
 .card {
   padding: 50px;
-  background-color: rgba(240, 248, 255, 0.532);
+  background-color: rgba(20, 115, 198, 0.532);
   font-size: 50px;
   margin-right: 40px;
   margin-left: 40px;
@@ -26,7 +26,7 @@ a {
 }
 a {
   padding: 50px;
-  background-color: rgba(240, 248, 255, 0.532);
+  background-color: rgba(20, 115, 198, 0.532);
   border-radius: 15px;
   margin-left: auto;
   margin-right: auto;
