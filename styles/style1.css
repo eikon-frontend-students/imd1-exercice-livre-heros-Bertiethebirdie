@@ -12,3 +12,27 @@ body {
   text-align: center;
   border-radius: 15px;
 }
+a {
+  padding: 50px;
+  background-color: rgba(240, 248, 255, 0.532);
+  border-radius: 15px;
+  margin-left: auto;
+  margin-right: auto;
+  color: hsl(300, 92%, 42%);
+  font-size: 40px;
+}
+.start-container {
+  margin-top: 40px;
+  display: flex;
+  gap: 20px;
+  align-items: center;
+}
+.finn {
+  img {
+    max-width: 252px;
+  }
+}
+
+.jake img {
+  max-width: 252px;
+}
