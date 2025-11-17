@@ -15,14 +15,12 @@ body {
 a {
   font-size: 60px;
 }
-.finn {
-  img {
-    max-width: 252px;
-  }
+.simon img {
+  max-width: 352px;
 }
 
-.jake img {
-  max-width: 252px;
+.gunter img {
+  max-width: 352px;
 }
 a {
   padding: 50px;
@@ -31,6 +29,7 @@ a {
   margin-left: auto;
   margin-right: auto;
   color: hsl(300, 100%, 100%);
+  text-align: center;
 }
 .start-container {
   margin-top: 40px;

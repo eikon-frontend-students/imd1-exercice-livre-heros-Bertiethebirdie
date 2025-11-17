@@ -7,7 +7,7 @@ body {
 .card {
   padding: 50px;
   background-color: rgba(240, 248, 255, 0.532);
-  font-size: 30px;
+  font-size: 60px;
   margin-right: 40px;
   margin-left: 40px;
   text-align: center;
@@ -16,10 +16,8 @@ body {
 a {
   font-size: 40px;
 }
-.finn {
-  img {
-    max-width: 352px;
-  }
+.finn img {
+  max-width: 352px;
 }
 
 .jake img {

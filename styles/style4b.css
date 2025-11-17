@@ -15,11 +15,10 @@ body {
 a {
   font-size: 60px;
 }
-.finn {
-  img {
-    max-width: 252px;
-  }
+.flower img {
+  max-width: 252px;
 }
+
 .jake img {
   max-width: 252px;
 }
@@ -31,6 +30,7 @@ a {
   margin-left: auto;
   margin-right: auto;
   color: hsl(300, 100%, 100%);
+  text-align: center;
 }
 .start-container {
   margin-top: 40px;
