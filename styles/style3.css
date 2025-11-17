@@ -1,0 +1,32 @@
+body {
+  background-image: url(../images/partybearsb.jpg);
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.card {
+  padding: 50px;
+  background-color: rgba(255, 255, 255, 0.829);
+  font-size: 60px;
+  margin-right: 40px;
+  margin-left: 40px;
+  text-align: center;
+  border-radius: 15px;
+  color: hsl(321, 85%, 46%);
+}
+a {
+  font-size: 60px;
+}
+a {
+  padding: 50px;
+  background-color: rgba(255, 255, 255, 0.829);
+  border-radius: 15px;
+  margin-left: auto;
+  margin-right: auto;
+  color: hsl(321, 85%, 46%);
+}
+.start-container {
+  margin-top: 200px;
+  display: flex;
+  gap: 50px;
+  align-items: center;
+}
