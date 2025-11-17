@@ -6,7 +6,7 @@ body {
 .card {
   padding: 50px;
   background-color: rgba(240, 248, 255, 0.532);
-  font-size: 30px;
+  font-size: 50px;
   margin-right: 40px;
   margin-left: 40px;
   text-align: center;
@@ -17,12 +17,12 @@ a {
 }
 .finn {
   img {
-    max-width: 152px;
+    max-width: 252px;
   }
 }
 
 .jake img {
-  max-width: 152px;
+  max-width: 252px;
 }
 a {
   padding: 50px;
@@ -35,6 +35,7 @@ a {
 .start-container {
   margin-top: 40px;
   display: flex;
-  gap: 50px;
+  gap: 25px;
   align-items: center;
+  margin-top: 100px;
 }

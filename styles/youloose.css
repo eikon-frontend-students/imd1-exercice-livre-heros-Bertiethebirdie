@@ -1,32 +1,37 @@
 body {
-  background-image: url(../images/partybearsb.jpg);
+  background-image: url(../images/looseback.jpg);
   color: white;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 .card {
   padding: 50px;
-  background-color: rgba(255, 255, 255, 0.829);
-  font-size: 50px;
+  background-color: rgba(240, 248, 255, 0.532);
+  font-size: 100px;
   margin-right: 40px;
   margin-left: 40px;
   text-align: center;
   border-radius: 15px;
-  color: hsl(321, 85%, 46%);
 }
 a {
   font-size: 60px;
 }
+.finn {
+  img {
+    max-width: 352px;
+  }
+}
+
 a {
   padding: 50px;
-  background-color: rgba(255, 255, 255, 0.829);
+  background-color: rgba(240, 248, 255, 0.532);
   border-radius: 15px;
   margin-left: auto;
   margin-right: auto;
-  color: hsl(321, 85%, 46%);
+  color: hsl(300, 100%, 100%);
 }
 .start-container {
-  margin-top: 200px;
+  margin-top: 40px;
   display: flex;
-  gap: 50px;
+  gap: 15px;
   align-items: center;
 }
