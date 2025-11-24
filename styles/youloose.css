@@ -31,8 +31,8 @@ a {
   font-size: 40px;
 }
 .start-container {
-  margin-top: 40px;
   display: flex;
   gap: 15px;
   align-items: center;
+  margin-top: auto;
 }

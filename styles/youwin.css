@@ -35,9 +35,8 @@ a {
   font-size: 40px;
 }
 .start-container {
-  margin-top: 40px;
   display: flex;
   gap: 25px;
   align-items: center;
-  margin-top: 100px;
+  margin-top: auto;
 }

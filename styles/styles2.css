@@ -13,9 +13,6 @@ body {
   text-align: center;
   border-radius: 15px;
 }
-a {
-  font-size: 40px;
-}
 a:hover {
   background-color: rgba(240, 248, 255, 0.364);
   font-size: 60px;
@@ -34,11 +31,11 @@ a {
   margin-left: auto;
   margin-right: auto;
   color: hsl(300, 100%, 100%);
+  font-size: 40px;
 }
 .start-container {
-  margin-top: 40px;
   display: flex;
   gap: 50px;
   align-items: center;
-  margin-top: 200px;
+  margin-top: auto;
 }
