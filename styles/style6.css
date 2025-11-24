@@ -37,7 +37,8 @@ a {
 }
 .start-container {
   display: flex;
+  flex-wrap: wrap;
   gap: 25px;
   align-items: center;
-  margin-top: auto;
+  margin-top: 200px;
 }

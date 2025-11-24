@@ -27,9 +27,10 @@ a:hover {
 }
 .start-container {
   display: flex;
+  flex-wrap: wrap;
   gap: 20px;
   align-items: center;
-  margin-top: auto;
+  margin-top: 200px;
 }
 .goblin img {
   max-width: 252px;
