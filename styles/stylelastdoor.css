@@ -12,15 +12,16 @@ body {
   text-align: center;
   border-radius: 15px;
 }
-a {
-  font-size: 60px;
-}
 .simon img {
   max-width: 352px;
 }
 
 .gunter img {
   max-width: 352px;
+}
+a:hover {
+  background-color: rgba(51, 107, 156, 0.927);
+  font-size: 60px;
 }
 a {
   padding: 50px;
@@ -30,6 +31,7 @@ a {
   margin-right: auto;
   color: hsl(300, 100%, 100%);
   text-align: center;
+  font-size: 40px;
 }
 .start-container {
   margin-top: 40px;

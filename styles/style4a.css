@@ -12,15 +12,16 @@ body {
   text-align: center;
   border-radius: 15px;
 }
-a {
-  font-size: 60px;
-}
+
 .flower {
   img {
     max-width: 452px;
   }
 }
-
+a:hover {
+  background-color: rgba(225, 64, 190, 0.686);
+  font-size: 60px;
+}
 a {
   padding: 50px;
   background-color: rgba(235, 135, 211, 0.532);
@@ -28,6 +29,7 @@ a {
   margin-left: auto;
   margin-right: auto;
   color: hsl(300, 100%, 100%);
+  font-size: 40px;
 }
 .start-container {
   margin-top: 40px;

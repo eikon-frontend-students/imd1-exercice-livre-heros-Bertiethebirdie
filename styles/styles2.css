@@ -16,6 +16,10 @@ body {
 a {
   font-size: 40px;
 }
+a:hover {
+  background-color: rgba(240, 248, 255, 0.364);
+  font-size: 60px;
+}
 .finn img {
   max-width: 352px;
 }

@@ -12,9 +12,7 @@ body {
   text-align: center;
   border-radius: 15px;
 }
-a {
-  font-size: 60px;
-}
+
 .flower img {
   max-width: 252px;
 }
@@ -22,7 +20,10 @@ a {
 .jake img {
   max-width: 252px;
 }
-
+a:hover {
+  background-color: rgba(213, 176, 74, 0.808);
+  font-size: 60px;
+}
 a {
   padding: 50px;
   background-color: rgba(203, 154, 20, 0.532);
@@ -31,6 +32,7 @@ a {
   margin-right: auto;
   color: hsl(300, 100%, 100%);
   text-align: center;
+  font-size: 40px;
 }
 .start-container {
   margin-top: 40px;
