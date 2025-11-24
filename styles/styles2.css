@@ -16,6 +16,7 @@ body {
 a:hover {
   background-color: rgba(240, 248, 255, 0.364);
   font-size: 60px;
+  transition-delay: 20ms;
 }
 .finn img {
   max-width: 352px;
@@ -25,7 +26,7 @@ a:hover {
   max-width: 400px;
 }
 a {
-  padding: 50px;
+  padding: 40px;
   background-color: rgba(240, 248, 255, 0.532);
   border-radius: 15px;
   margin-left: auto;

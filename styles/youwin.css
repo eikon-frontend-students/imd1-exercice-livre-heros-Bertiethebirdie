@@ -24,6 +24,7 @@ body {
 a:hover {
   background-color: rgba(141, 190, 234, 0.532);
   font-size: 60px;
+  transition-delay: 20ms;
 }
 a {
   padding: 50px;
