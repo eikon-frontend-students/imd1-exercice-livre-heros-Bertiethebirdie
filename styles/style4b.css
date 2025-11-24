@@ -1,0 +1,44 @@
+body {
+  background-image: url(../images/backround4b.jpg);
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.card {
+  padding: 50px;
+  background-color: rgba(203, 154, 20, 0.532);
+  font-size: 50px;
+  margin-right: 40px;
+  margin-left: 40px;
+  text-align: center;
+  border-radius: 15px;
+}
+
+.flower img {
+  max-width: 252px;
+}
+
+.jake img {
+  max-width: 252px;
+}
+a:hover {
+  background-color: rgba(213, 176, 74, 0.808);
+  font-size: 60px;
+  transition-delay: 50ms;
+}
+a {
+  padding: 50px;
+  background-color: rgba(203, 154, 20, 0.532);
+  border-radius: 15px;
+  margin-left: auto;
+  margin-right: auto;
+  color: hsl(300, 100%, 100%);
+  text-align: center;
+  font-size: 40px;
+}
+.start-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 25px;
+  align-items: center;
+  margin-top: 200px;
+}

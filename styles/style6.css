@@ -1,0 +1,45 @@
+body {
+  background-image: url(../images/back6.jpeg);
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.card {
+  padding: 50px;
+  background-color: rgba(226, 65, 228, 0.818);
+  font-size: 50px;
+  margin-right: 40px;
+  margin-left: 40px;
+  text-align: center;
+  border-radius: 15px;
+}
+
+.finn {
+  img {
+    max-width: 452px;
+  }
+}
+
+.flower img {
+  max-width: 452px;
+}
+a:hover {
+  background-color: rgba(225, 64, 190, 0.686);
+  font-size: 60px;
+  transition-delay: 50ms;
+}
+a {
+  padding: 50px;
+  background-color: rgba(226, 65, 228, 0.818);
+  border-radius: 15px;
+  margin-left: auto;
+  margin-right: auto;
+  color: hsl(300, 100%, 100%);
+  font-size: 40px;
+}
+.start-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 25px;
+  align-items: center;
+  margin-top: 200px;
+}
