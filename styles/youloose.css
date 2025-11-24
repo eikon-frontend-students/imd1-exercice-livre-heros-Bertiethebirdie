@@ -20,7 +20,7 @@ body {
 a:hover {
   background-color: rgba(8, 46, 149, 0.686);
   font-size: 60px;
-  transition-delay: 20ms;
+  transition-delay: 50ms;
 }
 a {
   padding: 50px;
